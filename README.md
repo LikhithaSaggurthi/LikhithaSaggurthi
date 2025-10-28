@@ -1,4 +1,3 @@
-```{"variant":"standard","title":"Enhanced GitHub Bio","id":"92341"}
 👋 Hi, I’m **Likhitha Saggurthi**  
 💻 Passionate about **coding, technology, and continuous learning**  
 🌱 Currently exploring **Java, Database Management, and Software Development**  
@@ -6,4 +5,4 @@
 🤝 Let’s connect and collaborate — [LinkedIn](https://www.linkedin.com/in/likhithasaggurthi/)  
 📧 Reach me at: **likhithasaggurthi@gmail.com**  
 🚀 Always eager to learn, create, and innovate  
-```
+
