@@ -48,20 +48,62 @@ I am a Computer Science Engineering student with strong fundamentals in programm
 
 # 🛠️ Technical Skills
 
-## Programming
-Java • Python • C  
 
-## Core Concepts
-Data Structures & Algorithms • OOPS • DBMS • OS • SDLC  
+## 🔹 Programming Languages
 
-## Backend & Tools
-Spring Boot • REST APIs • JUnit • Git • GitHub • Linux  
+<p align="left">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-## Databases
-MongoDB • PostgreSQL • SQL  
+---
 
-## AI & Cloud
-Machine Learning • Generative AI • Google Cloud • AWS  
+## 🔹 Core Concepts
+
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOPS-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔹 Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🔹 Backend & Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🔹 AI & Cloud
+
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00CED1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
 
 ---
 
